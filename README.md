@@ -1,0 +1,1 @@
+HtML çalışırken aldığım notlar.
