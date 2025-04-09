@@ -1,1 +1,1 @@
-HtML çalışırken aldığım notlar.
+### Notes I took while studying HTML
